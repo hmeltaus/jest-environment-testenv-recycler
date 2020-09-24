@@ -1,0 +1,21 @@
+{
+  "name": "jest-environment-testenv-recycler",
+  "version": "0.0.2",
+  "description": "Jest environment for testenv-recycler",
+  "files": [
+    "index.js"
+  ],
+  "main": "index.js",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  },
+  "dependencies": {
+    "jest-environment-node": "26.3.0",
+    "testenv-recycler": "0.0.9"
+  },
+  "devDependencies": {
+    "prettier": "2.1.2"
+  }
+}
