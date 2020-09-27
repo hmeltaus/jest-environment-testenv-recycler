@@ -323,10 +323,10 @@ supports-color@^7.1.0:
   dependencies:
     has-flag "^4.0.0"
 
-testenv-recycler@0.0.9:
-  version "0.0.9"
-  resolved "https://registry.yarnpkg.com/testenv-recycler/-/testenv-recycler-0.0.9.tgz#2b8b3c1df4f81e23f71779a9d7b1c2ea949fd81b"
-  integrity sha512-UPN2pqfOGz9fJ7spbLt1hFYIz2UuQG7is0uvqGDtDnffQjyDSGj9fVCYGr+h2WyByDHw5ImvFmuyPTmlH4iNaw==
+testenv-recycler@0.0.10:
+  version "0.0.10"
+  resolved "https://registry.yarnpkg.com/testenv-recycler/-/testenv-recycler-0.0.10.tgz#794e817946fd5e596010da0577831d5e610b0fc1"
+  integrity sha512-G+ygOREr2Cr+Teq3IyKL8Pw+S6/H/a4UXc0EmndMva7bNrhw2mnDguj+pWiZktjPd6DjSpUyavijIyqZkDJeRQ==
 
 to-regex-range@^5.0.1:
   version "5.0.1"
