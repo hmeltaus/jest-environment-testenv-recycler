@@ -1,6 +1,6 @@
 {
   "name": "jest-environment-testenv-recycler",
-  "version": "0.0.10",
+  "version": "0.0.11",
   "description": "Jest environment for testenv-recycler",
   "files": [
     "index.js"
