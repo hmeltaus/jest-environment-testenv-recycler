@@ -12,7 +12,7 @@
     "registry": "https://registry.npmjs.org/"
   },
   "dependencies": {
-    "jest-environment-node": "26.3.0",
+    "jest-environment-node": "27.4.4",
     "testenv-recycler": "0.0.10"
   },
   "devDependencies": {
