@@ -1,6 +1,6 @@
 {
   "name": "jest-environment-testenv-recycler",
-  "version": "0.0.14",
+  "version": "0.0.15",
   "description": "Jest environment for testenv-recycler",
   "files": [
     "index.js"
@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "jest-environment-node": "27.4.4",
-    "testenv-recycler": "0.0.11"
+    "testenv-recycler": "0.0.12"
   },
   "devDependencies": {
     "prettier": "2.1.2"
