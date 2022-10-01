@@ -18,7 +18,6 @@ class TestEnvRecyclerEnvironment extends NodeEnvironment {
     this.recycler = new r.Recycler({
       name: this.name,
       hostname: this.global.process.env.RECYCLER_HOSTNAME,
-      basePath: this.global.process.env.RECYCLER_BASEPATH,
       username: this.global.process.env.RECYCLER_USERNAME,
       password: this.global.process.env.RECYCLER_PASSWORD,
     })
