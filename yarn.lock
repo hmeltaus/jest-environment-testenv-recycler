@@ -336,10 +336,10 @@ supports-color@^7.1.0:
   dependencies:
     has-flag "^4.0.0"
 
-testenv-recycler@0.0.13:
-  version "0.0.13"
-  resolved "https://registry.yarnpkg.com/testenv-recycler/-/testenv-recycler-0.0.13.tgz#22e0cad91230cf6d0be43a95ba3e16d87dd609dd"
-  integrity sha512-/paTJARcf37tAd0PZ53DRAzC/x3nLg2qlUL+WRunBZkTJ9/Yvx8WrTUsF4VcrJMs9d71vzc1wo9vP5yeSIBKkA==
+testenv-recycler@0.0.14:
+  version "0.0.14"
+  resolved "https://registry.yarnpkg.com/testenv-recycler/-/testenv-recycler-0.0.14.tgz#b915feb77003cca20658683c5b20453cc50fb7a1"
+  integrity sha512-jpHfDPfAxIvvs4RNR6cFZtsdTufb7736zHdQdtIIOFKzmSrOxzJSiLauqQETfr3d9XZ3eIl3+EqNc+ajCRzxEw==
 
 to-regex-range@^5.0.1:
   version "5.0.1"
